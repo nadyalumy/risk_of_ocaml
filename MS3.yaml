@@ -1,0 +1,32 @@
+---
+# Members of your group.
+group:
+  - name: Jimmy Phan
+    netid: jp2369
+  - name: Nadya Lumy
+    netid: nal87
+  - name: Ethan Lin
+    netid: eyl45
+  - name: Chris Gunning
+    netid: clg238
+# Your PM.
+pm:
+  name: Akanksha Sarkar
+  netid: as2637
+# Set to false if you don't want your gallery entry to be public.
+publish: true
+# Pithy title
+title: "risk_of_ocaml"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/jp2369/3110proj"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: ""
+# Write a short, attention-grabbing description of your project.
+desc: >
+  risk_of_ocaml: the classic strategy board game Risk, now in OCaml!
+
+  Risk is a game based on diplomacy, conflict, and conquest. Conquer the 
+  world by controlling armies, making alliances (or enemies), and capturing 
+  territories.
+
+  The game supports 2 to 6 players, with a GUI map for players to enjoy!
